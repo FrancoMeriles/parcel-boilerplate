@@ -1,6 +1,6 @@
 # Parcel v2
 
-This repository is part of my post in medium [Parcel 2! A renewed bundler 🌈](https://medium.com/p/11b1c9a07c7a/edit) where i created a boilerplate using [Parcel v2](https://github.com/parcel-bundler/parcel/blob/v2/packages/core/parcel/README.md)
+This repository is part of my post in medium [Parcel 2! A renewed bundler 🌈](https://medium.com/@franmeriles/parcel-2-a-renewed-bundler-11b1c9a07c7a) where i created a boilerplate using [Parcel v2](https://github.com/parcel-bundler/parcel/blob/v2/packages/core/parcel/README.md)
 
 This boilerplate support
 
